@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1997041791",
+    "Type": "User",
+    "GUID": "{A89D6209-40D1-4F3D-A881-2591200059E3}",
+    "Language": "SFX",
+    "Hash": "{92FB7211-A300-B1A7-FEE3-F4B063EA9811}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Test_SB",
+    "ShortName": "Test_SB",
+    "Path": "Test_SB.bnk",
+    "Media": [
+     {
+      "Id": "339575932",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "tolik_idea_01.wav",
+      "CachePath": "FA/{FAA25909-4DB6-4B66-9D61-DC363C10BF99}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4258653052",
+      "Name": "Test_Event",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test_Event",
+      "GUID": "{F7304C0E-42F5-4DFA-8A9A-30B041F622F0}",
+      "DurationType": "OneShot",
+      "DurationMin": "52.04821",
+      "DurationMax": "52.04821",
+      "MediaRefs": [
+       {
+        "Id": "339575932"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4C439D79-F988-57A9-CF0A-EC2FBD253C50}"
+ }
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B6679FC8-1A6D-4CAC-A318-003AF65E537C}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{B6679FC8-1A6D-4CAC-A318-003AF65E537C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Test_SFX" ID="{8F1EEE9A-E69E-46CC-9427-FCC3D5EB50C5}" ShortID="284012942">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="tolik_idea_01" ID="{AC9E5725-E17B-438A-B8AA-BB03D6E945A9}">
+							<Language>SFX</Language>
+							<AudioFile>tolik_idea_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="339575932"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="tolik_idea_01" ID="{AC9E5725-E17B-438A-B8AA-BB03D6E945A9}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

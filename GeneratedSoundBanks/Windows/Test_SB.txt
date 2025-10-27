@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4258653052	Test_Event			\Default Work Unit\Test_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	339575932	Test_SFX	C:\Users\Admin\Documents\Unreal Projects\Rusalka\Rusalka_WwiseProject\.cache\FA\{FAA25909-4DB6-4B66-9D61-DC363C10BF99}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test_SFX		9181400
+
