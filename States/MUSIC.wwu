@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4AFA0E1A-2031-42DC-AA15-214AC583EFFC}" SchemaVersion="123" RootDocumentID="{3496D5E0-6CFB-4793-A105-F024911F75C8}" ParentDocumentID="{3496D5E0-6CFB-4793-A105-F024911F75C8}">
+	<States>
+		<WorkUnit Name="MUSIC" ID="{4AFA0E1A-2031-42DC-AA15-214AC583EFFC}" OwnerID="{3496D5E0-6CFB-4793-A105-F024911F75C8}" PersistMode="Nested">
+			<ChildrenList>
+				<StateGroup Name="GAMESTATE" ID="{C46097F7-9E19-4768-971F-586A4AA77B63}">
+					<ChildrenList>
+						<State Name="None" ID="{B757025F-A8A0-41D4-9814-2D9B1987338D}"/>
+						<State Name="MENU" ID="{62486133-1643-4070-B165-CEE10754FD4A}"/>
+						<State Name="FOREST1" ID="{374DE3B8-7A77-4A21-8A43-A64198618891}"/>
+						<State Name="FOREST2" ID="{6747995D-C165-4825-9E77-8D3A0FA63600}"/>
+						<State Name="LAKE1" ID="{77B1FD2A-C6C8-4CCF-A81F-FB648A9D3948}"/>
+						<State Name="LAKE2" ID="{78D1364C-8D46-4EE6-82A3-44E9A8FB6239}"/>
+						<State Name="CHOICE" ID="{7FFCD927-1E5B-4E36-99CF-7EB5AC1D5F7F}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="FOREST1" ID="{374DE3B8-7A77-4A21-8A43-A64198618891}"/>
+							<EndState Name="FOREST2" ID="{6747995D-C165-4825-9E77-8D3A0FA63600}"/>
+							<Time>5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

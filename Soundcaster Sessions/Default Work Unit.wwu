@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{85A3281D-A9A9-4455-BFF2-728DFFA8C790}" SchemaVersion="123">
 	<SoundcasterSessions>
-		<WorkUnit Name="Default Work Unit" ID="{85A3281D-A9A9-4455-BFF2-728DFFA8C790}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{85A3281D-A9A9-4455-BFF2-728DFFA8C790}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Game Music Test" ID="{98F2C836-2AC6-43B2-AB2A-A87AB42DCFFC}">
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{30935D6F-629B-46EC-8ED8-B02F3AC1756A}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="CHOICE_START" ID="{1E2D2998-4816-467F-9AEE-78C3D7E33B05}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="MENU_START" ID="{3B60CD9D-8249-4AFE-9894-B1D37F3A8704}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FOREST1_START" ID="{244724B3-F7BD-4243-965B-1270969A3866}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="MUSIC" ID="{509742FC-E85D-496E-B19A-9195B24C4565}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FOREST2_START" ID="{DE8FD927-75DE-4C3D-A46D-8300F03D0CE6}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="LAKE1_START" ID="{74653AC8-F04E-4535-AF14-C3631EAB1C56}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="LAKE2_START" ID="{797E1817-252D-4EFB-9817-00A868F471F1}" WorkUnitID="{D9BACCB1-803F-4BAE-A6B6-381DE28C30F0}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>

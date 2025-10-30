@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1E4CC1FA-D6CF-4F22-B167-8B6A11D0BA96}" SchemaVersion="123" RootDocumentID="{F0AE2071-A488-425D-B314-51EB1D9DB2FA}" ParentDocumentID="{F0AE2071-A488-425D-B314-51EB1D9DB2FA}">
+	<Switches>
+		<WorkUnit Name="MUSIC" ID="{1E4CC1FA-D6CF-4F22-B167-8B6A11D0BA96}" OwnerID="{F0AE2071-A488-425D-B314-51EB1D9DB2FA}" PersistMode="Nested">
+			<ChildrenList>
+				<SwitchGroup Name="MUSIC" ID="{586BEE67-7B48-4B7A-8033-95F9F17C64F5}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
