@@ -3,12 +3,22 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{65AA6BBF-5FA6-4173-B0EA-58D97C039FD7}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Test_Event" ID="{F7304C0E-42F5-4DFA-8A9A-30B041F622F0}">
+				<Event Name="PLAY_GAMEPLAY" ID="{2CF52800-DFD4-4420-ADB4-AE2FCAC67D8A}">
 					<ChildrenList>
-						<Action Name="" ID="{6B8AC54E-0982-4E02-BEDA-96A121CC0CAA}" ShortID="809833961">
+						<Action Name="" ID="{E2EEB84D-5E1D-4AE3-AAFC-13FFCC9A1223}" ShortID="589802399">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Test_SFX" ID="{8F1EEE9A-E69E-46CC-9427-FCC3D5EB50C5}" WorkUnitID="{B6679FC8-1A6D-4CAC-A318-003AF65E537C}"/>
+									<ObjectRef Name="GAMEPLAY" ID="{F2ED2D0D-0B39-4EBC-A43A-730F0B6A72D9}" WorkUnitID="{BE10AF49-0C76-4333-9CCE-1FE9A0B3CAF2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{FA8D5CD0-8FB1-464B-B8DE-B0E4B9B8914D}" ShortID="174927996">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FOREST1" ID="{374DE3B8-7A77-4A21-8A43-A64198618891}" WorkUnitID="{4AFA0E1A-2031-42DC-AA15-214AC583EFFC}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
