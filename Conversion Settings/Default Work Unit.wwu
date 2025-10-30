@@ -38,10 +38,10 @@
 					</PropertyList>
 					<ConversionPluginInfoList>
 						<ConversionPluginInfo Platform="Mac">
-							<ConversionPlugin Name="" ID="{BA309069-7769-4D0F-A6AB-FBFEC3D6A9B2}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+							<ConversionPlugin Name="" ID="{796446AD-DB93-47C6-BB63-35251AE66F1A}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 						</ConversionPluginInfo>
 						<ConversionPluginInfo Platform="Windows">
-							<ConversionPlugin Name="" ID="{63F51029-2926-4E25-9301-BE1E05164804}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+							<ConversionPlugin Name="" ID="{258B34F7-FEC9-4265-ABB4-5DC4FA47F61A}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 						</ConversionPluginInfo>
 					</ConversionPluginInfoList>
 				</Conversion>

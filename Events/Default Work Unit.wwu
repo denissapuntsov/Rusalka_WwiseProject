@@ -14,6 +14,281 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="ATMOS_Forest" ID="{249F6E55-36CE-40F2-875F-65CA569A38B5}">
+					<ChildrenList>
+						<Action Name="" ID="{859CAE36-9645-470E-8188-D5E0DBFEA104}" ShortID="416317210">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_FOREST" ID="{F7DB37F4-BFD7-4A1B-970E-2769BF5D1F20}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ATMOS_LakeWorld" ID="{200D602D-DFFF-46F8-94AF-5C200C7C3E75}">
+					<ChildrenList>
+						<Action Name="" ID="{A9862904-2567-4F22-B72B-8D5A9E8EE671}" ShortID="1047058033">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_LAKE WORLD" ID="{F99B9ED2-97C8-4C66-82BB-7E4A67BDC7CA}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ATMOS_LakeWorldFinal" ID="{9104BBBE-7411-44BD-96C0-CB7CB2FADE27}">
+					<ChildrenList>
+						<Action Name="" ID="{F799194A-1B84-4124-8BAC-21A806C64DB4}" ShortID="703102324">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_LAKE FINAL" ID="{1EB452E9-9E6B-4A58-B109-E5269DB0F048}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ATMOS_LakeReal" ID="{E535F4ED-4D19-4BD5-9F5E-C86DB3273EEA}">
+					<ChildrenList>
+						<Action Name="" ID="{4EB19B7A-375C-4B8A-A635-D51A513E09BC}" ShortID="651655711">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_LAKE REAL" ID="{16FA1AAF-95C0-4ADB-B30E-884A50BE3521}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ATMOS_EndingGood" ID="{3F6B7855-E921-4734-9EA0-76ED17EEBF9E}">
+					<ChildrenList>
+						<Action Name="" ID="{5BBFD2BC-A0C5-4BAE-B598-DCEF225AB178}" ShortID="654564575">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_ENDING GOOD" ID="{D1E2C714-4A0C-424E-941F-43C9C5FABFBF}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ATMOS_EndingBad" ID="{6C4DED88-AF52-47EA-AC35-AB051D7CD4C8}">
+					<ChildrenList>
+						<Action Name="" ID="{4DE8E3C7-3052-4D6A-8F73-C83F0731DF2D}" ShortID="709758185">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_ENDING BAD" ID="{63668B81-ACD5-4318-A984-342875035ACA}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ATMOS_EndingVillage" ID="{25448B9F-2114-4802-99F4-D7DC43DB4196}">
+					<ChildrenList>
+						<Action Name="" ID="{D3C5F7E7-A7AD-4B46-852B-19E4313E6AB5}" ShortID="898998878">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_ATMOS_TOWN" ID="{D22FBCC7-CB02-46B6-AC91-7628E986B8D4}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SPOT_BoneWhisper" ID="{4FF7C949-A6AD-41C3-8EBE-08CB8DD8B7BC}">
+					<ChildrenList>
+						<Action Name="" ID="{82E8199C-B708-40BE-842D-8FEFC29BC81D}" ShortID="6987188">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_SFX_BONE WHISPERS" ID="{63A23FC4-5D8C-4B35-8118-DE45640A2406}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SPOT_DoorOpen" ID="{C9C118D0-73CA-42A2-97B7-7BD1837B3882}">
+					<ChildrenList>
+						<Action Name="" ID="{3C50B9B1-2E8F-478A-B136-2F5B3B295252}" ShortID="76746404">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_SFX_DOOR" ID="{EC98E580-921B-4F8D-8120-CE4C5CDEABE4}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SPOT_FireStart" ID="{AD7F4575-EEB5-4186-932A-5C6DBB24E7CD}">
+					<ChildrenList>
+						<Action Name="" ID="{81E268FD-61BF-4B2F-AA25-7B339CCD65C7}" ShortID="215577308">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_SFX_FIRE START" ID="{AE78A8FA-EC55-46EF-9856-46F6CB9831F0}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SPOT_LakeToForestTransition" ID="{6B7D17E9-C996-4443-BF46-294045474EEA}">
+					<ChildrenList>
+						<Action Name="" ID="{9A69F9A6-6293-4639-9B53-0CAB2FAC58AA}" ShortID="195743400">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_SFX_LAKE TO FOREST" ID="{6723EB43-604A-4B7D-B148-9EC1ED19A623}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SPOT_WindowWhisper" ID="{F3B360E2-D891-4F9F-A3A2-737DAD4E05B8}">
+					<ChildrenList>
+						<Action Name="" ID="{706152D1-CD3B-4FB3-A1F8-0D972C46BCDB}" ShortID="918124742">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Synthespiens_SH_SFX_WINDOW" ID="{9F1DD9FB-33F4-498F-AF54-6B183065F7FF}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_Fisherman" ID="{FB2DE001-A93E-4363-B097-A285A570D017}">
+					<ChildrenList>
+						<Action Name="" ID="{21A66F6D-42BF-4345-AF08-15DA84271CB0}" ShortID="200911864">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_A Fisherman" ID="{7D83F380-F3B0-4D2C-AACE-9D2685103B48}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_WhateverTheCause" ID="{647F661B-B608-45A2-AF6B-2076EC21FA73}">
+					<ChildrenList>
+						<Action Name="" ID="{0609B738-FF15-4CB9-ABBD-5880998B2146}" ShortID="128580318">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_ Whatever the Cause" ID="{5AD0E759-2D32-46D4-BEAC-F11B91BFA8B8}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_AndStayHere" ID="{825EC318-3762-40D2-B777-256F29466459}">
+					<ChildrenList>
+						<Action Name="" ID="{18284B0C-17A4-405E-8902-046AA8973717}" ShortID="111277043">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_And Stay Here" ID="{34864C4E-1AE7-4864-85C1-8CDF0A01F953}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_CalmYourself" ID="{AAD0838F-1B94-4004-A3BE-0719FC1C1129}">
+					<ChildrenList>
+						<Action Name="" ID="{42279C4F-E3B1-4BA1-B369-C2173C513A9B}" ShortID="279154655">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_Calm Yourself" ID="{849910A6-EEC4-45B4-B2FE-39818347F3E9}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_IFoundHer" ID="{4F843D15-B789-4656-8A39-FC044DB530DE}">
+					<ChildrenList>
+						<Action Name="" ID="{9CEF0FC2-2740-4EB3-A20D-D0386DCDE60F}" ShortID="918061632">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_I Found Her" ID="{768DFA2D-B7A2-4F41-8487-728AAD75641D}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_LetTheUnborn" ID="{93C2EA26-AFD5-44BF-AF3D-EC051EF10B51}">
+					<ChildrenList>
+						<Action Name="" ID="{AF747551-2329-4846-938E-09F828BE756C}" ShortID="994870749">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_Let the Unborn" ID="{D1016A6C-5AF4-4623-9C76-327155C3AF60}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_NowLeanBack" ID="{F727AD8E-D139-4132-B21F-1B3BB57C7DDF}">
+					<ChildrenList>
+						<Action Name="" ID="{77BDC57B-7EFC-44FA-AB4F-9120C06FC751}" ShortID="973040320">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_Now Lean Back" ID="{277580C2-D2A5-4120-B3C0-44554B633B87}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_RumourSpread" ID="{F8F612ED-3BC3-4300-AF85-3956C9AAA8E5}">
+					<ChildrenList>
+						<Action Name="" ID="{1D52026A-9E61-4F27-96FD-A295679701B0}" ShortID="124307119">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_Rumour Spread" ID="{3D60CA2E-F7D3-41CA-BDC0-3F85769C653D}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_SheWasDutiful" ID="{19BCCF73-B77D-46B9-B048-B9ADF84062F5}">
+					<ChildrenList>
+						<Action Name="" ID="{24E5E5B2-5529-4FA1-AE95-04C57D5C81B6}" ShortID="285544863">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_She Was Dutiful" ID="{9AF7A5DE-79ED-4ACD-BCF3-81C5DB39B44C}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_TheCallWent" ID="{C066E313-DC16-43BE-AAF2-9227EAFF5ED1}">
+					<ChildrenList>
+						<Action Name="" ID="{211C4F60-B34A-4CAA-A41C-866AB3333E62}" ShortID="712460093">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_The Call Went" ID="{DBD3AF27-B0A3-4EB7-8753-F7A2B3583980}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_TheGodsWill" ID="{05D6C86D-D423-4873-99A0-26AF3F9D5F7B}">
+					<ChildrenList>
+						<Action Name="" ID="{89290273-F3F7-473E-A7E3-D46CE2B8EA39}" ShortID="1053351729">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_The Gods Will" ID="{FAB21D66-0FEF-4144-8014-E07B1F076F19}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DX_YouMustntTell" ID="{505284A5-6E45-43A2-A15E-52E673353252}">
+					<ChildrenList>
+						<Action Name="" ID="{1797ACB3-0ECB-43E8-9FB8-FBDC6A78B1C7}" ShortID="350096850">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DX_You Mustn't Tell" ID="{4B57DD8D-6B37-446D-BB69-F4E74664F7CD}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="MX_ForestIntro" ID="{88EE604B-810A-495F-8053-869DBA9B515F}">
+					<ChildrenList>
+						<Action Name="" ID="{808822F6-F5D8-4213-8F1A-ACE28EC6019E}" ShortID="336277167">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MX_ForestIntro" ID="{66AC1085-E6F2-4B0C-9673-B2B06F4EA146}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

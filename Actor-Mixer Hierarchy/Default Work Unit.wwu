@@ -25,6 +25,7 @@
 						<ActiveSource Name="tolik_idea_01" ID="{AC9E5725-E17B-438A-B8AA-BB03D6E945A9}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<WorkUnit Name="SAM" ID="{A66E94A6-00A7-4090-8336-2A0668158054}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

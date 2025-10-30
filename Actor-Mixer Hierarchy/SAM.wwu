@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A66E94A6-00A7-4090-8336-2A0668158054}" SchemaVersion="123" RootDocumentID="{B6679FC8-1A6D-4CAC-A318-003AF65E537C}" ParentDocumentID="{B6679FC8-1A6D-4CAC-A318-003AF65E537C}">
+	<AudioObjects>
+		<WorkUnit Name="SAM" ID="{A66E94A6-00A7-4090-8336-2A0668158054}" OwnerID="{B6679FC8-1A6D-4CAC-A318-003AF65E537C}" PersistMode="Nested">
+			<ChildrenList>
+				<Folder Name="SFX_ATMOS" ID="{A6B254D6-DF55-4EBF-AC12-123C08AC3D7B}" ShortID="411091680">
+					<ChildrenList>
+						<Sound Name="Synthespiens_SH_ATMOS_ENDING BAD" ID="{63668B81-ACD5-4318-A984-342875035ACA}" ShortID="309470667">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_ENDING BAD" ID="{1119DB2C-BD1B-4805-A51B-69426911FDA4}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_ENDING BAD.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="132213014"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_ENDING BAD" ID="{1119DB2C-BD1B-4805-A51B-69426911FDA4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_ATMOS_ENDING GOOD" ID="{D1E2C714-4A0C-424E-941F-43C9C5FABFBF}" ShortID="524060375">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_ENDING GOOD" ID="{7BA55969-42E7-4F04-9DCC-AF59B93F03CB}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_ENDING GOOD.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="583268724"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_ENDING GOOD" ID="{7BA55969-42E7-4F04-9DCC-AF59B93F03CB}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_ATMOS_FOREST" ID="{F7DB37F4-BFD7-4A1B-970E-2769BF5D1F20}" ShortID="64140188">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_FOREST" ID="{99061BD7-EF86-4F11-933F-52071407C2A4}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="2726.424"/>
+										<Property Name="LoopBegin" Type="Real64" Value="8.13689110316143"/>
+										<Property Name="LoopEnd" Type="Real64" Value="59.246739056971"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_FOREST.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1019335636"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_FOREST" ID="{99061BD7-EF86-4F11-933F-52071407C2A4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_ATMOS_LAKE FINAL" ID="{1EB452E9-9E6B-4A58-B109-E5269DB0F048}" ShortID="446309042">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_LAKE FINAL" ID="{1FA47A12-B252-47CB-B774-414CF8E5FC7D}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="7130.724"/>
+										<Property Name="LoopBegin" Type="Real64" Value="12.1607618578975"/>
+										<Property Name="LoopEnd" Type="Real64" Value="180.131281805589"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_LAKE FINAL.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="813486868"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_LAKE FINAL" ID="{1FA47A12-B252-47CB-B774-414CF8E5FC7D}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_ATMOS_LAKE REAL" ID="{16FA1AAF-95C0-4ADB-B30E-884A50BE3521}" ShortID="422510454">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_LAKE REAL" ID="{46D2AA74-ACB5-4F72-931E-A98D2F366F7C}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="2954.778"/>
+										<Property Name="LoopBegin" Type="Real64" Value="7.03372716162489"/>
+										<Property Name="LoopEnd" Type="Real64" Value="75.2713782006562"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_LAKE REAL.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="791226236"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_LAKE REAL" ID="{46D2AA74-ACB5-4F72-931E-A98D2F366F7C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_ATMOS_LAKE WORLD" ID="{F99B9ED2-97C8-4C66-82BB-7E4A67BDC7CA}" ShortID="278497020">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_LAKE WORLD" ID="{EC61097D-0BF1-43F9-A551-2BAF311F5E9F}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="6341.563"/>
+										<Property Name="LoopBegin" Type="Real64" Value="9.46305736482452"/>
+										<Property Name="LoopEnd" Type="Real64" Value="178.584870124777"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_LAKE WORLD.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="162615486"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_LAKE WORLD" ID="{EC61097D-0BF1-43F9-A551-2BAF311F5E9F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_ATMOS_TOWN" ID="{D22FBCC7-CB02-46B6-AC91-7628E986B8D4}" ShortID="1062109522">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_ATMOS_TOWN" ID="{999A0444-EE14-45B6-9D5D-FE834F5B386C}">
+									<PropertyList>
+										<Property Name="FadeOutDuration" Type="Real64" Value="3.89347146582727"/>
+										<Property Name="LoopBegin" Type="Real64" Value="0"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_ATMOS\Synthespiens_SH_ATMOS_TOWN.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="102576311"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_ATMOS_TOWN" ID="{999A0444-EE14-45B6-9D5D-FE834F5B386C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="SFX_SPOTS" ID="{C6A5B556-EF62-46C7-9C77-17A034766716}" ShortID="374283114">
+					<ChildrenList>
+						<Sound Name="Synthespiens_SH_SFX_BONE WHISPERS" ID="{63A23FC4-5D8C-4B35-8118-DE45640A2406}" ShortID="863145107">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_SFX_BONE WHISPERS" ID="{006B7700-4340-4BBD-A054-7F5D64313337}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="1040.446"/>
+										<Property Name="LoopBegin" Type="Real64" Value="0.711600185058277"/>
+										<Property Name="LoopEnd" Type="Real64" Value="47.2890678708434"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_SPOTS\Synthespiens_SH_SFX_BONE WHISPERS.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="328850390"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_SFX_BONE WHISPERS" ID="{006B7700-4340-4BBD-A054-7F5D64313337}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_SFX_DOOR" ID="{EC98E580-921B-4F8D-8120-CE4C5CDEABE4}" ShortID="814473071">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_SFX_DOOR" ID="{06705F6F-9BB1-4ABE-861D-2221D166BC2B}">
+									<PropertyList>
+										<Property Name="FadeInDuration" Type="Real64" Value="0.0610643347310279"/>
+										<Property Name="FadeOutDuration" Type="Real64" Value="1.22739312809366"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimBegin" Type="Real64" Value="0.37249244185927"/>
+										<Property Name="TrimEnd" Type="Real64" Value="3.52341213941162"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_SPOTS\Synthespiens_SH_SFX_DOOR.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="860992569"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_SFX_DOOR" ID="{06705F6F-9BB1-4ABE-861D-2221D166BC2B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_SFX_FIRE START" ID="{AE78A8FA-EC55-46EF-9856-46F6CB9831F0}" ShortID="196852508">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_SFX_FIRE START" ID="{510EAA6F-179C-46D5-812A-532D3D24E1EA}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_SPOTS\Synthespiens_SH_SFX_FIRE START.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="819927037"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_SFX_FIRE START" ID="{510EAA6F-179C-46D5-812A-532D3D24E1EA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_SFX_LAKE TO FOREST" ID="{6723EB43-604A-4B7D-B148-9EC1ED19A623}" ShortID="442166210">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_SFX_LAKE TO FOREST" ID="{96B4EA7E-7F0E-47CD-B7C7-62D51368BBBA}">
+									<PropertyList>
+										<Property Name="FadeInDuration" Type="Real64" Value="1.07895508207805"/>
+										<Property Name="FadeOutDuration" Type="Real64" Value="4.33508738334933"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimBegin" Type="Real64" Value="3.73780867719897"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_SPOTS\Synthespiens_SH_SFX_LAKE TO FOREST.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="568591579"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_SFX_LAKE TO FOREST" ID="{96B4EA7E-7F0E-47CD-B7C7-62D51368BBBA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Synthespiens_SH_SFX_WINDOW" ID="{9F1DD9FB-33F4-498F-AF54-6B183065F7FF}" ShortID="73399454">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Synthespiens_SH_SFX_WINDOW" ID="{F6BFA564-41A8-4AE4-B586-3FEA9D4BC4A7}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="1775.833"/>
+										<Property Name="LoopBegin" Type="Real64" Value="2.98119163513184"/>
+										<Property Name="LoopEnd" Type="Real64" Value="81.7067358398437"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>SFX_SPOTS\Synthespiens_SH_SFX_WINDOW.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="275240950"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Synthespiens_SH_SFX_WINDOW" ID="{F6BFA564-41A8-4AE4-B586-3FEA9D4BC4A7}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="DX" ID="{C5AF8C3D-E576-4C82-9B8A-08801A88A4B0}" ShortID="533977624">
+					<ChildrenList>
+						<Sound Name="DX_ Whatever the Cause" ID="{5AD0E759-2D32-46D4-BEAC-F11B91BFA8B8}" ShortID="1062961920">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_ Whatever the Cause" ID="{7EDB8CD5-61BF-48AB-8E32-E4EFBECB1067}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_ Whatever the Cause.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1000111702"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_ Whatever the Cause" ID="{7EDB8CD5-61BF-48AB-8E32-E4EFBECB1067}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_A Fisherman" ID="{7D83F380-F3B0-4D2C-AACE-9D2685103B48}" ShortID="683033808">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_A Fisherman" ID="{01789998-246E-40CF-BB31-ECF3C4A1B9F9}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_A Fisherman.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="209829931"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_A Fisherman" ID="{01789998-246E-40CF-BB31-ECF3C4A1B9F9}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_And Stay Here" ID="{34864C4E-1AE7-4864-85C1-8CDF0A01F953}" ShortID="123275831">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_And Stay Here" ID="{A6E0B21F-BEFD-4B27-B5D2-84BC94B644F2}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_And Stay Here.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="234938568"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_And Stay Here" ID="{A6E0B21F-BEFD-4B27-B5D2-84BC94B644F2}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Calm Yourself" ID="{849910A6-EEC4-45B4-B2FE-39818347F3E9}" ShortID="684583706">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Calm Yourself" ID="{45465C1D-F1BC-4425-94B4-10FDB7BC95A6}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_Calm Yourself.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="830482651"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Calm Yourself" ID="{45465C1D-F1BC-4425-94B4-10FDB7BC95A6}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_I Found Her" ID="{768DFA2D-B7A2-4F41-8487-728AAD75641D}" ShortID="629889029">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_I Found Her" ID="{F6205E71-4B58-4BB5-AC47-F77E8D3830FA}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_I Found Her.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="369257372"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_I Found Her" ID="{F6205E71-4B58-4BB5-AC47-F77E8D3830FA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Let the Unborn" ID="{D1016A6C-5AF4-4623-9C76-327155C3AF60}" ShortID="384893479">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Let the Unborn" ID="{81DBC152-8C66-4A67-A349-3E5ABD940FEB}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_Let the Unborn.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="473875935"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Let the Unborn" ID="{81DBC152-8C66-4A67-A349-3E5ABD940FEB}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Now Lean Back" ID="{277580C2-D2A5-4120-B3C0-44554B633B87}" ShortID="597525964">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Now Lean Back" ID="{74D80374-B9AB-492E-9C50-72DF4A4BF6EE}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_Now Lean Back.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="96869325"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Now Lean Back" ID="{74D80374-B9AB-492E-9C50-72DF4A4BF6EE}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Rumour Spread" ID="{3D60CA2E-F7D3-41CA-BDC0-3F85769C653D}" ShortID="311954940">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Rumour Spread" ID="{595F5141-DAFD-4F9D-B576-59C709871A02}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_Rumour Spread.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="296329990"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Rumour Spread" ID="{595F5141-DAFD-4F9D-B576-59C709871A02}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_She Was Dutiful" ID="{9AF7A5DE-79ED-4ACD-BCF3-81C5DB39B44C}" ShortID="322577008">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_She Was Dutiful" ID="{236DF899-3D04-4F37-AEDD-173DB76EE08B}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_She Was Dutiful.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="295506484"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_She Was Dutiful" ID="{236DF899-3D04-4F37-AEDD-173DB76EE08B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_The Call Went" ID="{DBD3AF27-B0A3-4EB7-8753-F7A2B3583980}" ShortID="190757386">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_The Call Went" ID="{DC84BF5B-3621-4676-8E67-2393942D144C}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_The Call Went.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="348117208"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_The Call Went" ID="{DC84BF5B-3621-4676-8E67-2393942D144C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_The Gods Will" ID="{FAB21D66-0FEF-4144-8014-E07B1F076F19}" ShortID="53422607">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_The Gods Will" ID="{D0581275-56B3-4969-AC62-A65EC4E2132D}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_The Gods Will .wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="873174101"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_The Gods Will" ID="{D0581275-56B3-4969-AC62-A65EC4E2132D}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_You Mustn't Tell" ID="{4B57DD8D-6B37-446D-BB69-F4E74664F7CD}" ShortID="809680590">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_You Mustn't Tell" ID="{072F3CFB-09B3-4939-BCA0-C7507608A8F7}">
+									<Language>SFX</Language>
+									<AudioFile>DX\DX_You Mustn't Tell.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="419535090"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_You Mustn't Tell" ID="{072F3CFB-09B3-4939-BCA0-C7507608A8F7}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="MX_ForestIntro" ID="{ABF969BF-F2B5-4DD8-BBE2-CE433AE9384D}" ShortID="335565254">
+					<ChildrenList>
+						<RandomSequenceContainer Name="MX_ForestIntro" ID="{66AC1085-E6F2-4B0C-9673-B2B06F4EA146}" ShortID="672235767">
+							<PropertyList>
+								<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="RUSALKA_MX_Forest-Intro_4" ID="{F714C3D0-EE5A-4796-B898-2892EB549560}" ShortID="88534508">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="RUSALKA_MX_Forest-Intro_4" ID="{145CF992-A5BF-4523-88A1-858AA7DB7CF7}">
+											<Language>SFX</Language>
+											<AudioFile>RUSALKA - MX - Forest-Intro\RUSALKA_MX_Forest-Intro_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="606788924"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="RUSALKA_MX_Forest-Intro_4" ID="{145CF992-A5BF-4523-88A1-858AA7DB7CF7}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="RUSALKA_MX_Forest-Intro_1" ID="{BDB853A1-9E74-4EBD-97C4-BC8151522A54}" ShortID="925121049">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="RUSALKA_MX_Forest-Intro_1" ID="{5BB58F9B-F355-43C7-928D-ED0EF272BC93}">
+											<Language>SFX</Language>
+											<AudioFile>RUSALKA - MX - Forest-Intro\RUSALKA_MX_Forest-Intro_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="197129127"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="RUSALKA_MX_Forest-Intro_1" ID="{5BB58F9B-F355-43C7-928D-ED0EF272BC93}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="RUSALKA_MX_Forest-Intro_2" ID="{D78CBE41-1F41-4B87-8516-71E0A87C5963}" ShortID="865016026">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="RUSALKA_MX_Forest-Intro_2" ID="{7B1B7038-076A-43CF-B96F-EED83EAA4156}">
+											<Language>SFX</Language>
+											<AudioFile>RUSALKA - MX - Forest-Intro\RUSALKA_MX_Forest-Intro_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="428593854"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="RUSALKA_MX_Forest-Intro_2" ID="{7B1B7038-076A-43CF-B96F-EED83EAA4156}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="RUSALKA_MX_Forest-Intro_3" ID="{84DFC066-C762-4CC7-892C-64256C35F703}" ShortID="576797150">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{08692A11-52A3-4F4B-80C4-B452F1918C4F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7439C6C9-9AC4-4F8C-A1D8-12C19ED82E3D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="RUSALKA_MX_Forest-Intro_3" ID="{3591B558-7485-46E6-ACE2-A77C19265625}">
+											<Language>SFX</Language>
+											<AudioFile>RUSALKA - MX - Forest-Intro\RUSALKA_MX_Forest-Intro_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="388455944"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="RUSALKA_MX_Forest-Intro_3" ID="{3591B558-7485-46E6-ACE2-A77C19265625}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists>
+								<ObjectList Name="Playlist">
+									<Reference>
+										<ObjectRef Name="RUSALKA_MX_Forest-Intro_1" ID="{BDB853A1-9E74-4EBD-97C4-BC8151522A54}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+									</Reference>
+									<Reference>
+										<ObjectRef Name="RUSALKA_MX_Forest-Intro_2" ID="{D78CBE41-1F41-4B87-8516-71E0A87C5963}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+									</Reference>
+									<Reference>
+										<ObjectRef Name="RUSALKA_MX_Forest-Intro_3" ID="{84DFC066-C762-4CC7-892C-64256C35F703}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+									</Reference>
+									<Reference>
+										<ObjectRef Name="RUSALKA_MX_Forest-Intro_4" ID="{F714C3D0-EE5A-4796-B898-2892EB549560}" WorkUnitID="{A66E94A6-00A7-4090-8336-2A0668158054}"/>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

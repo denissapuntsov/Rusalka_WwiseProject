@@ -3,7 +3,7 @@
   "Project": {
    "Name": "Rusalka_WwiseProject",
    "GUID": "{34AFDBCF-2427-4FCE-ABB4-791B527B5221}",
-   "Generator": "2024.1.9.8920"
+   "Generator": "2024.1.3.8749"
   },
   "CacheRoot": "../.cache",
   "Platforms": [
@@ -31,6 +31,6 @@
     "UseAsStandIn": "true"
    }
   ],
-  "FileHash": "{3B07CA1A-5798-1FE1-1E29-DB6EA44D679E}"
+  "FileHash": "{1F048234-2C4B-0B91-513C-7E28816E1C0A}"
  }
 }

@@ -1,0 +1,618 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1661994096",
+    "Type": "User",
+    "GUID": "{8439CD8C-A286-4743-950E-DE133C86C3C6}",
+    "Language": "SFX",
+    "Hash": "{A511CAD6-D32D-8AF7-F4D6-CFC9B325AC40}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SoundBank",
+    "ShortName": "SoundBank",
+    "Path": "SoundBank.bnk",
+    "Media": [
+     {
+      "Id": "96869325",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_Now Lean Back.wav",
+      "CachePath": "AA/{AA4F4AB5-59DB-2188-EBF6-DD40F8099402}.wem"
+     },
+     {
+      "Id": "102576311",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_TOWN.wav",
+      "CachePath": "80/{8055F451-7F11-3523-DDF5-BD63F7186673}.wem"
+     },
+     {
+      "Id": "132213014",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_ENDING BAD.wav",
+      "CachePath": "37/{37E54714-B69E-FB66-06F3-4DC2C91EFF6D}.wem"
+     },
+     {
+      "Id": "162615486",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_LAKE WORLD.wav",
+      "CachePath": "DD/{DD5906CD-614C-12E5-DDE7-BFC27CD2202B}.wem"
+     },
+     {
+      "Id": "197129127",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "RUSALKA - MX - Forest-Intro\\RUSALKA_MX_Forest-Intro_1.wav",
+      "CachePath": "75/{75EE5D6F-46AF-D242-3DBD-F3648266C243}.wem"
+     },
+     {
+      "Id": "209829931",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_A Fisherman.wav",
+      "CachePath": "68/{68B64FDF-CBCE-B002-2158-9E89B330CFD0}.wem"
+     },
+     {
+      "Id": "234938568",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_And Stay Here.wav",
+      "CachePath": "E1/{E1E2E264-71DB-7658-E4C9-1CAC314E1A40}.wem"
+     },
+     {
+      "Id": "275240950",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_SPOTS\\Synthespiens_SH_SFX_WINDOW.wav",
+      "CachePath": "3B/{3BBECCBE-2886-22EB-7673-D18CB27B9EBB}.wem"
+     },
+     {
+      "Id": "295506484",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_She Was Dutiful.wav",
+      "CachePath": "DF/{DF90C1E9-52AB-F3E0-C539-06CAC4001C33}.wem"
+     },
+     {
+      "Id": "296329990",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_Rumour Spread.wav",
+      "CachePath": "B5/{B561E44D-138A-9779-3664-755F514EB7EC}.wem"
+     },
+     {
+      "Id": "328850390",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_SPOTS\\Synthespiens_SH_SFX_BONE WHISPERS.wav",
+      "CachePath": "B4/{B4F89DE7-0E54-7795-7231-A89D9DD3EFB6}.wem"
+     },
+     {
+      "Id": "339575932",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "tolik_idea_01.wav",
+      "CachePath": "E5/{E5388117-43E2-3406-5760-B7FB0AD4E267}.wem"
+     },
+     {
+      "Id": "348117208",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_The Call Went.wav",
+      "CachePath": "37/{378409AF-D160-D8E1-4733-C6B1C0B5D079}.wem"
+     },
+     {
+      "Id": "369257372",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_I Found Her.wav",
+      "CachePath": "EA/{EA2AEED2-AA31-7EEC-C4B0-A7A77B8D5E68}.wem"
+     },
+     {
+      "Id": "388455944",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "RUSALKA - MX - Forest-Intro\\RUSALKA_MX_Forest-Intro_3.wav",
+      "CachePath": "7E/{7ED028C5-B3ED-B0AD-DE03-5B15A30BA826}.wem"
+     },
+     {
+      "Id": "419535090",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_You Mustn't Tell.wav",
+      "CachePath": "93/{93AE99DA-ACCC-F10D-7BA4-47A5534DE167}.wem"
+     },
+     {
+      "Id": "428593854",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "RUSALKA - MX - Forest-Intro\\RUSALKA_MX_Forest-Intro_2.wav",
+      "CachePath": "68/{68105589-E999-DE68-2D51-608226C2B7F9}.wem"
+     },
+     {
+      "Id": "473875935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_Let the Unborn.wav",
+      "CachePath": "D7/{D72AE3EB-C5B0-7231-21DC-2C9355AC1F95}.wem"
+     },
+     {
+      "Id": "568591579",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_SPOTS\\Synthespiens_SH_SFX_LAKE TO FOREST.wav",
+      "CachePath": "4F/{4F0C13BD-AA84-F2FA-CBE7-7B99D4FE982E}.wem"
+     },
+     {
+      "Id": "583268724",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_ENDING GOOD.wav",
+      "CachePath": "13/{13972137-C77D-4EC8-001D-DCB2D6ABD048}.wem"
+     },
+     {
+      "Id": "606788924",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "RUSALKA - MX - Forest-Intro\\RUSALKA_MX_Forest-Intro_4.wav",
+      "CachePath": "E5/{E584B8FC-3BE2-85E6-0408-4E2832EEE80C}.wem"
+     },
+     {
+      "Id": "791226236",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_LAKE REAL.wav",
+      "CachePath": "A1/{A18D8A58-956B-5464-3823-0FCE9CF6BB01}.wem"
+     },
+     {
+      "Id": "813486868",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_LAKE FINAL.wav",
+      "CachePath": "73/{73FD2792-25C3-B923-D597-491BDFF94053}.wem"
+     },
+     {
+      "Id": "819927037",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_SPOTS\\Synthespiens_SH_SFX_FIRE START.wav",
+      "CachePath": "85/{857D12CA-B7B8-AEB6-DF73-7BC8ED129229}.wem"
+     },
+     {
+      "Id": "830482651",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_Calm Yourself.wav",
+      "CachePath": "09/{091F07BC-A01E-7CD0-D2B6-219626E84F37}.wem"
+     },
+     {
+      "Id": "860992569",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_SPOTS\\Synthespiens_SH_SFX_DOOR.wav",
+      "CachePath": "4A/{4A84F4F3-8AAA-7E38-134A-8E597AE3AD13}.wem"
+     },
+     {
+      "Id": "873174101",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_The Gods Will .wav",
+      "CachePath": "21/{21FFDF4D-4A3F-F694-8E67-9D7B166FB224}.wem"
+     },
+     {
+      "Id": "1000111702",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DX\\DX_ Whatever the Cause.wav",
+      "CachePath": "03/{03F919B1-D8AA-4A0F-7EA3-611A662895EB}.wem"
+     },
+     {
+      "Id": "1019335636",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_ATMOS\\Synthespiens_SH_ATMOS_FOREST.wav",
+      "CachePath": "B0/{B0DF408F-40C5-C3F7-2A25-B9952BAB3D9B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2408327186",
+      "Name": "ATMOS_EndingBad",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_EndingBad",
+      "GUID": "{6C4DED88-AF52-47EA-AC35-AB051D7CD4C8}",
+      "DurationType": "OneShot",
+      "DurationMin": "47.4",
+      "DurationMax": "47.4",
+      "MediaRefs": [
+       {
+        "Id": "132213014"
+       }
+      ]
+     },
+     {
+      "Id": "1476875814",
+      "Name": "ATMOS_EndingGood",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_EndingGood",
+      "GUID": "{3F6B7855-E921-4734-9EA0-76ED17EEBF9E}",
+      "DurationType": "OneShot",
+      "DurationMin": "49.86558",
+      "DurationMax": "49.86558",
+      "MediaRefs": [
+       {
+        "Id": "583268724"
+       }
+      ]
+     },
+     {
+      "Id": "2721216383",
+      "Name": "ATMOS_EndingVillage",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_EndingVillage",
+      "GUID": "{25448B9F-2114-4802-99F4-D7DC43DB4196}",
+      "DurationType": "OneShot",
+      "DurationMin": "32.32",
+      "DurationMax": "32.32",
+      "MediaRefs": [
+       {
+        "Id": "102576311"
+       }
+      ]
+     },
+     {
+      "Id": "2006540283",
+      "Name": "ATMOS_Forest",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_Forest",
+      "GUID": "{249F6E55-36CE-40F2-875F-65CA569A38B5}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "1019335636"
+       }
+      ]
+     },
+     {
+      "Id": "1672196213",
+      "Name": "ATMOS_LakeReal",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_LakeReal",
+      "GUID": "{E535F4ED-4D19-4BD5-9F5E-C86DB3273EEA}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "791226236"
+       }
+      ]
+     },
+     {
+      "Id": "4256721859",
+      "Name": "ATMOS_LakeWorld",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_LakeWorld",
+      "GUID": "{200D602D-DFFF-46F8-94AF-5C200C7C3E75}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "162615486"
+       }
+      ]
+     },
+     {
+      "Id": "2856793961",
+      "Name": "ATMOS_LakeWorldFinal",
+      "ObjectPath": "\\Events\\Default Work Unit\\ATMOS_LakeWorldFinal",
+      "GUID": "{9104BBBE-7411-44BD-96C0-CB7CB2FADE27}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "813486868"
+       }
+      ]
+     },
+     {
+      "Id": "3666470818",
+      "Name": "DX_AndStayHere",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_AndStayHere",
+      "GUID": "{825EC318-3762-40D2-B777-256F29466459}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.8650627",
+      "DurationMax": "5.8650627",
+      "MediaRefs": [
+       {
+        "Id": "234938568"
+       }
+      ]
+     },
+     {
+      "Id": "3434128762",
+      "Name": "DX_CalmYourself",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_CalmYourself",
+      "GUID": "{AAD0838F-1B94-4004-A3BE-0719FC1C1129}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.955625",
+      "DurationMax": "7.955625",
+      "MediaRefs": [
+       {
+        "Id": "830482651"
+       }
+      ]
+     },
+     {
+      "Id": "2487823753",
+      "Name": "DX_Fisherman",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_Fisherman",
+      "GUID": "{FB2DE001-A93E-4363-B097-A285A570D017}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.1048958",
+      "DurationMax": "3.1048958",
+      "MediaRefs": [
+       {
+        "Id": "209829931"
+       }
+      ]
+     },
+     {
+      "Id": "2248700952",
+      "Name": "DX_IFoundHer",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_IFoundHer",
+      "GUID": "{4F843D15-B789-4656-8A39-FC044DB530DE}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.5442293",
+      "DurationMax": "3.5442293",
+      "MediaRefs": [
+       {
+        "Id": "369257372"
+       }
+      ]
+     },
+     {
+      "Id": "39044668",
+      "Name": "DX_LetTheUnborn",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_LetTheUnborn",
+      "GUID": "{93C2EA26-AFD5-44BF-AF3D-EC051EF10B51}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.7956667",
+      "DurationMax": "5.7956667",
+      "MediaRefs": [
+       {
+        "Id": "473875935"
+       }
+      ]
+     },
+     {
+      "Id": "2414064245",
+      "Name": "DX_NowLeanBack",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_NowLeanBack",
+      "GUID": "{F727AD8E-D139-4132-B21F-1B3BB57C7DDF}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.2714376",
+      "DurationMax": "6.2714376",
+      "MediaRefs": [
+       {
+        "Id": "96869325"
+       }
+      ]
+     },
+     {
+      "Id": "3645483447",
+      "Name": "DX_RumourSpread",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_RumourSpread",
+      "GUID": "{F8F612ED-3BC3-4300-AF85-3956C9AAA8E5}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.3059165",
+      "DurationMax": "3.3059165",
+      "MediaRefs": [
+       {
+        "Id": "296329990"
+       }
+      ]
+     },
+     {
+      "Id": "1950283290",
+      "Name": "DX_SheWasDutiful",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_SheWasDutiful",
+      "GUID": "{19BCCF73-B77D-46B9-B048-B9ADF84062F5}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.2628126",
+      "DurationMax": "4.2628126",
+      "MediaRefs": [
+       {
+        "Id": "295506484"
+       }
+      ]
+     },
+     {
+      "Id": "1676109871",
+      "Name": "DX_TheCallWent",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_TheCallWent",
+      "GUID": "{C066E313-DC16-43BE-AAF2-9227EAFF5ED1}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.4985623",
+      "DurationMax": "5.4985623",
+      "MediaRefs": [
+       {
+        "Id": "348117208"
+       }
+      ]
+     },
+     {
+      "Id": "2215583876",
+      "Name": "DX_TheGodsWill",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_TheGodsWill",
+      "GUID": "{05D6C86D-D423-4873-99A0-26AF3F9D5F7B}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.475042",
+      "DurationMax": "5.475042",
+      "MediaRefs": [
+       {
+        "Id": "873174101"
+       }
+      ]
+     },
+     {
+      "Id": "2780214760",
+      "Name": "DX_WhateverTheCause",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_WhateverTheCause",
+      "GUID": "{647F661B-B608-45A2-AF6B-2076EC21FA73}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.449917",
+      "DurationMax": "5.449917",
+      "MediaRefs": [
+       {
+        "Id": "1000111702"
+       }
+      ]
+     },
+     {
+      "Id": "2938311677",
+      "Name": "DX_YouMustntTell",
+      "ObjectPath": "\\Events\\Default Work Unit\\DX_YouMustntTell",
+      "GUID": "{505284A5-6E45-43A2-A15E-52E673353252}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.1773124",
+      "DurationMax": "5.1773124",
+      "MediaRefs": [
+       {
+        "Id": "419535090"
+       }
+      ]
+     },
+     {
+      "Id": "2949640156",
+      "Name": "MX_ForestIntro",
+      "ObjectPath": "\\Events\\Default Work Unit\\MX_ForestIntro",
+      "GUID": "{88EE604B-810A-495F-8053-869DBA9B515F}",
+      "DurationType": "OneShot",
+      "DurationMin": "12.288",
+      "DurationMax": "12.288",
+      "MediaRefs": [
+       {
+        "Id": "197129127"
+       },
+       {
+        "Id": "388455944"
+       },
+       {
+        "Id": "428593854"
+       },
+       {
+        "Id": "606788924"
+       }
+      ]
+     },
+     {
+      "Id": "2986206736",
+      "Name": "SPOT_BoneWhisper",
+      "ObjectPath": "\\Events\\Default Work Unit\\SPOT_BoneWhisper",
+      "GUID": "{4FF7C949-A6AD-41C3-8EBE-08CB8DD8B7BC}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "328850390"
+       }
+      ]
+     },
+     {
+      "Id": "453867712",
+      "Name": "SPOT_DoorOpen",
+      "ObjectPath": "\\Events\\Default Work Unit\\SPOT_DoorOpen",
+      "GUID": "{C9C118D0-73CA-42A2-97B7-7BD1837B3882}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.1509197",
+      "DurationMax": "3.1509197",
+      "MediaRefs": [
+       {
+        "Id": "860992569"
+       }
+      ]
+     },
+     {
+      "Id": "3655257552",
+      "Name": "SPOT_FireStart",
+      "ObjectPath": "\\Events\\Default Work Unit\\SPOT_FireStart",
+      "GUID": "{AD7F4575-EEB5-4186-932A-5C6DBB24E7CD}",
+      "DurationType": "OneShot",
+      "DurationMin": "12.012459",
+      "DurationMax": "12.012459",
+      "MediaRefs": [
+       {
+        "Id": "819927037"
+       }
+      ]
+     },
+     {
+      "Id": "3243330264",
+      "Name": "SPOT_LakeToForestTransition",
+      "ObjectPath": "\\Events\\Default Work Unit\\SPOT_LakeToForestTransition",
+      "GUID": "{6B7D17E9-C996-4443-BF46-294045474EEA}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.136358",
+      "DurationMax": "11.136358",
+      "MediaRefs": [
+       {
+        "Id": "568591579"
+       }
+      ]
+     },
+     {
+      "Id": "1931359090",
+      "Name": "SPOT_WindowWhisper",
+      "ObjectPath": "\\Events\\Default Work Unit\\SPOT_WindowWhisper",
+      "GUID": "{F3B360E2-D891-4F9F-A3A2-737DAD4E05B8}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "275240950"
+       }
+      ]
+     },
+     {
+      "Id": "4258653052",
+      "Name": "Test_Event",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test_Event",
+      "GUID": "{F7304C0E-42F5-4DFA-8A9A-30B041F622F0}",
+      "DurationType": "OneShot",
+      "DurationMin": "52.04821",
+      "DurationMax": "52.04821",
+      "MediaRefs": [
+       {
+        "Id": "339575932"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F28D0EFC-9F18-3A54-C407-3A6B42B93809}"
+ }
+}

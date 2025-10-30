@@ -1,0 +1,59 @@
+Event	ID	Name			Wwise Object Path	Notes
+	39044668	DX_LetTheUnborn			\Default Work Unit\DX_LetTheUnborn	
+	453867712	SPOT_DoorOpen			\Default Work Unit\SPOT_DoorOpen	
+	1476875814	ATMOS_EndingGood			\Default Work Unit\ATMOS_EndingGood	
+	1672196213	ATMOS_LakeReal			\Default Work Unit\ATMOS_LakeReal	
+	1676109871	DX_TheCallWent			\Default Work Unit\DX_TheCallWent	
+	1931359090	SPOT_WindowWhisper			\Default Work Unit\SPOT_WindowWhisper	
+	1950283290	DX_SheWasDutiful			\Default Work Unit\DX_SheWasDutiful	
+	2006540283	ATMOS_Forest			\Default Work Unit\ATMOS_Forest	
+	2215583876	DX_TheGodsWill			\Default Work Unit\DX_TheGodsWill	
+	2248700952	DX_IFoundHer			\Default Work Unit\DX_IFoundHer	
+	2408327186	ATMOS_EndingBad			\Default Work Unit\ATMOS_EndingBad	
+	2414064245	DX_NowLeanBack			\Default Work Unit\DX_NowLeanBack	
+	2487823753	DX_Fisherman			\Default Work Unit\DX_Fisherman	
+	2721216383	ATMOS_EndingVillage			\Default Work Unit\ATMOS_EndingVillage	
+	2780214760	DX_WhateverTheCause			\Default Work Unit\DX_WhateverTheCause	
+	2856793961	ATMOS_LakeWorldFinal			\Default Work Unit\ATMOS_LakeWorldFinal	
+	2938311677	DX_YouMustntTell			\Default Work Unit\DX_YouMustntTell	
+	2949640156	MX_ForestIntro			\Default Work Unit\MX_ForestIntro	
+	2986206736	SPOT_BoneWhisper			\Default Work Unit\SPOT_BoneWhisper	
+	3243330264	SPOT_LakeToForestTransition			\Default Work Unit\SPOT_LakeToForestTransition	
+	3434128762	DX_CalmYourself			\Default Work Unit\DX_CalmYourself	
+	3645483447	DX_RumourSpread			\Default Work Unit\DX_RumourSpread	
+	3655257552	SPOT_FireStart			\Default Work Unit\SPOT_FireStart	
+	3666470818	DX_AndStayHere			\Default Work Unit\DX_AndStayHere	
+	4256721859	ATMOS_LakeWorld			\Default Work Unit\ATMOS_LakeWorld	
+	4258653052	Test_Event			\Default Work Unit\Test_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	96869325	DX_Now Lean Back	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\AA\{AA4F4AB5-59DB-2188-EBF6-DD40F8099402}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_Now Lean Back		169424
+	102576311	Synthespiens_SH_ATMOS_TOWN	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\80\{8055F451-7F11-3523-DDF5-BD63F7186673}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_TOWN		1745360
+	132213014	Synthespiens_SH_ATMOS_ENDING BAD	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\37\{37E54714-B69E-FB66-06F3-4DC2C91EFF6D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_ENDING BAD		2559680
+	162615486	Synthespiens_SH_ATMOS_LAKE WORLD	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\DD\{DD5906CD-614C-12E5-DDE7-BFC27CD2202B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_LAKE WORLD		10115440
+	197129127	RUSALKA_MX_Forest-Intro_1	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\75\{75EE5D6F-46AF-D242-3DBD-F3648266C243}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\MX_ForestIntro\MX_ForestIntro\RUSALKA_MX_Forest-Intro_1		663792
+	209829931	DX_A Fisherman	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\68\{68B64FDF-CBCE-B002-2158-9E89B330CFD0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_A Fisherman		83924
+	234938568	DX_And Stay Here	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\E1\{E1E2E264-71DB-7658-E4C9-1CAC314E1A40}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_And Stay Here		158444
+	275240950	Synthespiens_SH_SFX_WINDOW	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\3B\{3BBECCBE-2886-22EB-7673-D18CB27B9EBB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_SPOTS\Synthespiens_SH_SFX_WINDOW		2301640
+	295506484	DX_She Was Dutiful	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\DF\{DF90C1E9-52AB-F3E0-C539-06CAC4001C33}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_She Was Dutiful		115208
+	296329990	DX_Rumour Spread	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\B5\{B561E44D-138A-9779-3664-755F514EB7EC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_Rumour Spread		89360
+	328850390	Synthespiens_SH_SFX_BONE WHISPERS	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\B4\{B4F89DE7-0E54-7795-7231-A89D9DD3EFB6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_SPOTS\Synthespiens_SH_SFX_BONE WHISPERS		1348612
+	339575932	Test_SFX	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\E5\{E5388117-43E2-3406-5760-B7FB0AD4E267}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test_SFX		2582360
+	348117208	DX_The Call Went	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\37\{378409AF-D160-D8E1-4733-C6B1C0B5D079}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_The Call Went		148544
+	369257372	DX_I Found Her	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\EA\{EA2AEED2-AA31-7EEC-C4B0-A7A77B8D5E68}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_I Found Her		95804
+	388455944	RUSALKA_MX_Forest-Intro_3	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\7E\{7ED028C5-B3ED-B0AD-DE03-5B15A30BA826}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\MX_ForestIntro\MX_ForestIntro\RUSALKA_MX_Forest-Intro_3		663792
+	419535090	DX_You Mustn't Tell	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\93\{93AE99DA-ACCC-F10D-7BA4-47A5534DE167}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_You Mustn't Tell		139868
+	428593854	RUSALKA_MX_Forest-Intro_2	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\68\{68105589-E999-DE68-2D51-608226C2B7F9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\MX_ForestIntro\MX_ForestIntro\RUSALKA_MX_Forest-Intro_2		663792
+	473875935	DX_Let the Unborn	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\D7\{D72AE3EB-C5B0-7231-21DC-2C9355AC1F95}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_Let the Unborn		156572
+	568591579	Synthespiens_SH_SFX_LAKE TO FOREST	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\4F\{4F0C13BD-AA84-F2FA-CBE7-7B99D4FE982E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_SPOTS\Synthespiens_SH_SFX_LAKE TO FOREST		601496
+	583268724	Synthespiens_SH_ATMOS_ENDING GOOD	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\13\{13972137-C77D-4EC8-001D-DCB2D6ABD048}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_ENDING GOOD		2692880
+	606788924	RUSALKA_MX_Forest-Intro_4	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\E5\{E584B8FC-3BE2-85E6-0408-4E2832EEE80C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\MX_ForestIntro\MX_ForestIntro\RUSALKA_MX_Forest-Intro_4		663856
+	791226236	Synthespiens_SH_ATMOS_LAKE REAL	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\A1\{A18D8A58-956B-5464-3823-0FCE9CF6BB01}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_LAKE REAL		4376608
+	813486868	Synthespiens_SH_ATMOS_LAKE FINAL	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\73\{73FD2792-25C3-B923-D597-491BDFF94053}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_LAKE FINAL		10561840
+	819927037	Synthespiens_SH_SFX_FIRE START	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\85\{857D12CA-B7B8-AEB6-DF73-7BC8ED129229}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_SPOTS\Synthespiens_SH_SFX_FIRE START		324440
+	830482651	DX_Calm Yourself	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\09\{091F07BC-A01E-7CD0-D2B6-219626E84F37}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_Calm Yourself		214892
+	860992569	Synthespiens_SH_SFX_DOOR	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\4A\{4A84F4F3-8AAA-7E38-134A-8E597AE3AD13}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_SPOTS\Synthespiens_SH_SFX_DOOR		85184
+	873174101	DX_The Gods Will	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\21\{21FFDF4D-4A3F-F694-8E67-9D7B166FB224}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_The Gods Will		147932
+	1000111702	DX_ Whatever the Cause	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\03\{03F919B1-D8AA-4A0F-7EA3-611A662895EB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\DX\DX_ Whatever the Cause		147248
+	1019335636	Synthespiens_SH_ATMOS_FOREST	Y:\Documents\NFTS\Rusalka_WwiseProject\.cache\B0\{B0DF408F-40C5-C3F7-2A25-B9952BAB3D9B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SAM\SFX_ATMOS\Synthespiens_SH_ATMOS_FOREST		3533632
+
