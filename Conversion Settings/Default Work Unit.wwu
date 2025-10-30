@@ -38,10 +38,17 @@
 					</PropertyList>
 					<ConversionPluginInfoList>
 						<ConversionPluginInfo Platform="Mac">
+<<<<<<< HEAD
 							<ConversionPlugin Name="" ID="{796446AD-DB93-47C6-BB63-35251AE66F1A}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 						</ConversionPluginInfo>
 						<ConversionPluginInfo Platform="Windows">
 							<ConversionPlugin Name="" ID="{258B34F7-FEC9-4265-ABB4-5DC4FA47F61A}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
+=======
+							<ConversionPlugin Name="" ID="{FA281AAE-B8ED-472D-AB96-EFD3D1E6C652}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
+						</ConversionPluginInfo>
+						<ConversionPluginInfo Platform="Windows">
+							<ConversionPlugin Name="" ID="{F9854E40-6D4E-411D-BA96-6C1324288596}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
+>>>>>>> music
 						</ConversionPluginInfo>
 					</ConversionPluginInfoList>
 				</Conversion>
